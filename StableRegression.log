@@ -1,0 +1,59 @@
+============================
+Start Regression against referenced seeds (log file: StableRegression.log)
+----------------------------
+[ERROR]: Alt+Tab,Alt+CapsLock,Alt+Grave,Alt+Shift used in place of Alt+Tab,Alt+CapsLock,Alt+Grave,Control+V,Alt+Shift for parameter CameraCenter, in seed TheCore Lite
+[ERROR]: Alt+1,Control+V used in place of Alt for parameter CameraSave1, in seed TheCore Lite
+[ERROR]: Alt+2,Control+F used in place of Alt+2,Control+R for parameter CameraSave2, in seed TheCore Lite
+[ERROR]: Alt+3,Control+R used in place of Alt+3,Control+E for parameter CameraSave3, in seed TheCore Lite
+[ERROR]: Shift+1,Control+C used in place of Shift+CapsLock for parameter CameraView1, in seed TheCore Lite
+[ERROR]: Shift+3,Control+E used in place of Shift+3,Control+F for parameter CameraView3, in seed TheCore Lite
+[ERROR]: Shift+F3 used in place of F3 for parameter CommanderAbility0, in seed TheCore Lite
+[ERROR]: Shift+F4 used in place of F4 for parameter CommanderAbility1, in seed TheCore Lite
+[ERROR]: Shift+F5 used in place of F5 for parameter CommanderAbility2, in seed TheCore Lite
+[ERROR]: Shift+F6 used in place of F6 for parameter CommanderAbility3, in seed TheCore Lite
+[ERROR]: Control+Shift+CapsLock,Grave used in place of Control+Shift+CapsLock for parameter ControlGroupAssignAndSteal6, in seed TheCore Lite
+[ERROR]: Shift+F1 used in place of Equals for parameter MinimapTerrain, in seed TheCore Lite
+[ERROR]: Alt,Control,Control+Alt,Shift+Alt used in place of Control,Control+Alt,Shift+Alt for parameter StatusEnemy, in seed TheCore Lite
+[WARN]: '4' used in place of 'Space' for command 'BurrowUp', in seed 'TheCore Lite'
+[WARN]: 'Escape' used in place of 'Escape,Grave' for command 'Cancel', in seed 'TheCore Lite'
+[WARN]: 'C,R' used in place of 'C,Space' for command 'ChannelSnipe/Ghost', in seed 'TheCore Lite'
+[WARN]: 'F' used in place of '4' for command 'CloakOff', in seed 'TheCore Lite'
+[WARN]: 'Space' used in place of 'F' for command 'CloakOnBanshee', in seed 'TheCore Lite'
+[WARN]: 'T' used in place of 'V' for command 'Corruptor/Larva', in seed 'TheCore Lite'
+[WARN]: 'Space' used in place of '4' for command 'DisableBuildingAttack/Baneling', in seed 'TheCore Lite'
+[WARN]: 'E' used in place of 'E,R' for command 'EMP/Ghost', in seed 'TheCore Lite'
+[WARN]: 'E' used in place of 'Space' for command 'EvolveInfestorEnergyUpgrade/InfestationPit', in seed 'TheCore Lite'
+[WARN]: '5' used in place of '4' for command 'Halt', in seed 'TheCore Lite'
+[WARN]: 'F' used in place of 'F,4' for command 'InfestedTerrans/Infestor', in seed 'TheCore Lite'
+[WARN]: 'F' used in place of 'F,4' for command 'InfestedTerrans/InfestorBurrowed', in seed 'TheCore Lite'
+[WARN]: '5' used in place of '4' for command 'Lift', in seed 'TheCore Lite'
+[WARN]: 'Space,4' used in place of 'Space' for command 'LurkerBurrowUp', in seed 'TheCore Lite'
+[WARN]: 'C' used in place of 'F,6' for command 'LurkerCancelHoldFire/LurkerMPBurrowed', in seed 'TheCore Lite'
+[WARN]: 'E' used in place of '4' for command 'LurkerHoldFire/LurkerMPBurrowed', in seed 'TheCore Lite'
+[WARN]: 'Space' used in place of 'Space,5' for command 'MedivacSpeedBoost/Medivac', in seed 'TheCore Lite'
+[WARN]: 'V' used in place of 'T' for command 'Mutalisk/Larva', in seed 'TheCore Lite'
+[WARN]: 'Space' used in place of 'C' for command 'NeuralParasite/Infestor', in seed 'TheCore Lite'
+[WARN]: '4' used in place of '5' for command 'NukeCalldown/Ghost', in seed 'TheCore Lite'
+[WARN]: 'E,R' used in place of 'E,Space' for command 'OracleBuildStasisTrap/Oracle', in seed 'TheCore Lite'
+[WARN]: 'C' used in place of 'C,R' for command 'OracleRevelation/Oracle', in seed 'TheCore Lite'
+[WARN]: 'F' used in place of '4' for command 'OracleWeaponOff', in seed 'TheCore Lite'
+[WARN]: 'F' used in place of '4' for command 'OracleWeaponOff/Oracle', in seed 'TheCore Lite'
+[WARN]: 'Space' used in place of 'F' for command 'OracleWeaponOn', in seed 'TheCore Lite'
+[WARN]: 'Space' used in place of 'F' for command 'OracleWeaponOn/Oracle', in seed 'TheCore Lite'
+[WARN]: 'Space' used in place of 'Space,F' for command 'PhasingMode/WarpPrism', in seed 'TheCore Lite'
+[WARN]: 'Space,4' used in place of 'Space' for command 'Raise/SupplyDepotLowered', in seed 'TheCore Lite'
+[WARN]: 'R' used in place of 'C' for command 'Repair', in seed 'TheCore Lite'
+[WARN]: 'Space' used in place of 'C' for command 'ResearchNeuralParasite/InfestationPit', in seed 'TheCore Lite'
+[WARN]: '4' used in place of '5' for command 'SelectBuilder', in seed 'TheCore Lite'
+[WARN]: 'R,C' used in place of 'Space,C' for command 'Snipe/Ghost', in seed 'TheCore Lite'
+[WARN]: 'Space,4' used in place of 'Space' for command 'SpineCrawlerUproot/SpineCrawler', in seed 'TheCore Lite'
+[WARN]: 'Space,4' used in place of 'Space' for command 'SporeCrawlerUproot/SporeCrawler', in seed 'TheCore Lite'
+[WARN]: '5' used in place of 'Y' for command 'SwarmHostMP/Larva', in seed 'TheCore Lite'
+[WARN]: 'Space,C' used in place of 'Space' for command 'TerranBuild/SCV', in seed 'TheCore Lite'
+[WARN]: 'E,R' used in place of 'E,C' for command 'TimeWarp/Nexus', in seed 'TheCore Lite'
+[WARN]: 'R' used in place of '4' for command 'TransportMode/WarpPrism', in seed 'TheCore Lite'
+[WARN]: 'Space,C' used in place of 'Space' for command 'ZergBuild/Drone', in seed 'TheCore Lite'
+[INFO]: seed 'TheCore Lite' got regression check against 'stable/TheCore Lite.SC2Hotkeys'
+----------------------------
+Finished (Regression against referenced seeds) - ERRORs: 13 WARNs: 39 INFOs: 1 
+============================

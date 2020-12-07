@@ -1,0 +1,67 @@
+============================
+Start unbound commands, within identified conflicts (log file: UnboundCommandCheck.log)
+----------------------------
+[ERROR]:  unbound command ActivateIbikisCannon/PlanetaryFortress, in seed TheCore Lite
+[ERROR]:  unbound command Aggressive/LurkerMPBurrowed, in seed TheCore Lite
+[ERROR]:  unbound command BattleRage/Khraxus, in seed TheCore Lite
+[ERROR]:  unbound command DarkSwarm/Infestor, in seed TheCore Lite
+[ERROR]:  unbound command Detonate/SpiderMine, in seed TheCore Lite
+[ERROR]:  unbound command EnrageQueen/Queen, in seed TheCore Lite
+[ERROR]:  unbound command EvadeObserver/Observer, in seed TheCore Lite
+[ERROR]:  unbound command Glare/Oracle, in seed TheCore Lite
+[ERROR]:  unbound command Guardian/Mutalisk, in seed TheCore Lite
+[ERROR]:  unbound command HellfireThrusters/StarportTechLab, in seed TheCore Lite
+[ERROR]:  unbound command InjectLarva/Queen, in seed TheCore Lite
+[ERROR]:  unbound command LaunchNullWard/NullSphere, in seed TheCore Lite
+[ERROR]:  unbound command LockdownRound/Ghost, in seed TheCore Lite
+[ERROR]:  unbound command Matrix/Medic, in seed TheCore Lite
+[ERROR]:  unbound command MutateintoDefilerMound/Drone, in seed TheCore Lite
+[ERROR]:  unbound command NerveJam/ScienceVessel, in seed TheCore Lite
+[ERROR]:  unbound command NurturingSwarm/Queen, in seed TheCore Lite
+[ERROR]:  unbound command Overcharge/OrbitalCommand, in seed TheCore Lite
+[ERROR]:  unbound command Passive, in seed TheCore Lite
+[ERROR]:  unbound command PhaseMissile/Scout, in seed TheCore Lite
+[ERROR]:  unbound command PlaceWard/Oracle, in seed TheCore Lite
+[ERROR]:  unbound command Plague/Infestor, in seed TheCore Lite
+[ERROR]:  unbound command PrimalConsume/Infestor, in seed TheCore Lite
+[ERROR]:  unbound command Recall/Arbiter, in seed TheCore Lite
+[ERROR]:  unbound command ResearchBarrelStabilizers/BarracksTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchCharonBooster/FactoryTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchEMP/StarportTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchEngineeredExplosives/BarracksTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchEvadeObserver/Observatory, in seed TheCore Lite
+[ERROR]:  unbound command ResearchFortifiedBunkers/EngineeringBay, in seed TheCore Lite
+[ERROR]:  unbound command ResearchIonThrusters/FactoryTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchIrradiate/StarportTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchKhaydarinCore/ArbiterTribunal, in seed TheCore Lite
+[ERROR]:  unbound command ResearchKhaydarinGenerator/FleetBeacon, in seed TheCore Lite
+[ERROR]:  unbound command ResearchMatrix/BarracksTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchPiercingRockets/StarportTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchPlasmaCharge/RoboticsBay, in seed TheCore Lite
+[ERROR]:  unbound command ResearchRecall/ArbiterTribunal, in seed TheCore Lite
+[ERROR]:  unbound command ResearchSingularityCharge2/CyberneticsCore, in seed TheCore Lite
+[ERROR]:  unbound command ResearchSpiderMines/FactoryTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchTimeWarp/FleetBeacon, in seed TheCore Lite
+[ERROR]:  unbound command ResearchTitanReactor/StarportTechLab, in seed TheCore Lite
+[ERROR]:  unbound command ResearchTurboGripper/StarportTechLab, in seed TheCore Lite
+[ERROR]:  unbound command Rift/KhaydarinNexus, in seed TheCore Lite
+[ERROR]:  unbound command Rift/Nexus, in seed TheCore Lite
+[ERROR]:  unbound command SIRoot/SIFactory, in seed TheCore Lite
+[ERROR]:  unbound command ShapedBlast/SiegeBreakerSieged, in seed TheCore Lite
+[ERROR]:  unbound command ShapedBlast/SiegeTankSieged, in seed TheCore Lite
+[ERROR]:  unbound command SlivanPuke/Devourer, in seed TheCore Lite
+[ERROR]:  unbound command StasisField/Arbiter, in seed TheCore Lite
+[ERROR]:  unbound command StasisField/ArbiterTribunal, in seed TheCore Lite
+[ERROR]:  unbound command SuperStimpackStone, in seed TheCore Lite
+[ERROR]:  unbound command TimeWarpSentinel/Oracle, in seed TheCore Lite
+[ERROR]:  unbound command UpgradeLIDARTransmitter/EngineeringBay, in seed TheCore Lite
+[ERROR]:  unbound command UpgradewithKhaydarinCore/Nexus, in seed TheCore Lite
+[ERROR]:  unbound command WarpInCorsair/Stargate, in seed TheCore Lite
+[ERROR]:  unbound command WarpInReaver/RoboticsFacility, in seed TheCore Lite
+[ERROR]:  unbound command WarpinArbiterTribunal/Probe, in seed TheCore Lite
+[ERROR]:  unbound command WarpinDragoon/Gateway, in seed TheCore Lite
+[ERROR]:  unbound command WarpinObservatory/Probe, in seed TheCore Lite
+[ERROR]:  unbound command XaphanForce/Voranor, in seed TheCore Lite
+----------------------------
+Finished (unbound commands, within identified conflicts) - ERRORs: 61 
+============================
